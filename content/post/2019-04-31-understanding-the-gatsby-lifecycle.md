@@ -1,14 +1,11 @@
 ---
 title: Jakiś losowy tytuł
 date: 2019-04-30T22:00:00+00:00
-hero: "/v1589060692/patrik-lindeberg-sxHY0EnTwHo-unsplash_wn1qsi.jpg"
+hero: "/v1589060837/heroo_dpxcyp.jpg"
 excerpt: With the growing community interest in Gatsby, we hope to create more resources
   that make it easier for anyone to grasp the power of this incredible tool.
 timeToRead: 6
 authors:
-- Thiago Costa
-- Dennis Brotzky
-- Brad Tiller
 - Mack Mansouri
 
 ---
