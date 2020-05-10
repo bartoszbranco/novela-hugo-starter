@@ -1,7 +1,7 @@
 ---
 title: Jakiś losowy tytuł
 date: 2019-04-30T22:00:00+00:00
-hero: https://res.cloudinary.com/bartoszbranco/image/upload/v1589103806/hero-6_pomh1n.jpg
+hero: https://res.cloudinary.com/bartoszbranco/image/upload/v1589103889/hero-2_b7987o.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources
   that make it easier for anyone to grasp the power of this incredible tool.
 timeToRead: 6
