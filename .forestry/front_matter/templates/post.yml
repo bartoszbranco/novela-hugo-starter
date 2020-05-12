@@ -18,7 +18,7 @@ fields:
   description: ''
   config:
     required: false
-    date_format: 
+    date_format: DD/MM/YY
     time_format: 
     display_utc: false
 - name: hero
